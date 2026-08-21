@@ -1,0 +1,6 @@
+{
+  "name": "AgenticBuy AI",
+  "description": "Autonomous Shopping & Decision Agent powered by Gemini AI. Understands requirements, extracts budget/features, filters sample catalog, compares trade-offs, and provides rationalized purchasing decisions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
